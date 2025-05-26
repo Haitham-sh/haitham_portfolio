@@ -2054,6 +2054,10 @@ span.error {
   overflow: hidden;
 }
 
+.fancybox-slide{
+  background-color: #000;
+}
+
 @media (max-width: 767.98px) {
   .lines-wrap {
     display: none;
